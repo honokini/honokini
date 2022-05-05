@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programme
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software developer
-- 📫 To reach me you have to write me.
+- 📫 To reach me you have to write me on @honokini.
 
 <!---
 honokini/honokini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
