@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @honokini
+- 👋 Hi, I’m KINI Biè Honoré
 - 👀 I’m interested in software programme
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software developer
