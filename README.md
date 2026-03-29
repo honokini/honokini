@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KINI Biè Honoré.
-- 👀 I’m interested in Backend or Front-end development.
+- 👀 I’m interested in Backend or Front-end development. I'm passionate about building products that help people live better lives.
 - 🌱 I certified software engineering with ALX Africa at Holberton University.
 - 💞️ I’m looking to collaborate with software developers.
 - 📫 You can reach me on whatsapp https://wa.me/74830722 or email: hkini48@gmail.com.
